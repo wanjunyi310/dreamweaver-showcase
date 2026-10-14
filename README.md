@@ -19,8 +19,8 @@
 
 | 内容 | 入口 |
 | --- | --- |
-| 游戏演示视频 | [前往 Releases 观看](../../releases/latest) |
-| Windows 试玩包 | [下载最新版本](../../releases/latest)，完整解压后双击 `入梦师.exe` |
+| 游戏演示视频 | [前往 v0.1.0 Release 观看](../../releases/tag/v0.1.0) |
+| Windows 试玩包 | [下载 v0.1.0 试玩版](../../releases/tag/v0.1.0)，完整解压后双击 `入梦师.exe` |
 | 功能自测记录 | [查看测试清单](Docs/TEST_CHECKLIST.md) |
 
 支持 Windows 10/11 64 位系统。试玩包和演示视频通过 GitHub Releases 单独提供。
