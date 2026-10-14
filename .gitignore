@@ -1,0 +1,35 @@
+# Local system and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+preview.html
+
+# Archives and local builds are distributed through GitHub Releases
+*.zip
+*.7z
+*.rar
+*.exe
+*.dll
+*.pdb
+
+# Secrets and local configuration
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+secrets.*
+credentials.*
+
+# Full Unity project folders must never enter this showcase repository
+Assets/
+Packages/
+ProjectSettings/
+Library/
+Temp/
+Logs/
+UserSettings/
+Build/
+Builds/
