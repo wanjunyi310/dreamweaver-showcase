@@ -7,7 +7,7 @@
 <p align="center">
   <img alt="Unity 2022.3 LTS" src="https://img.shields.io/badge/Unity-2022.3%20LTS-000000?logo=unity">
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-Game%20Development-512BD4?logo=csharp">
-  <img alt="Platform Windows" src="https://img.shields.io/badge/Platform-Windows-0078D4?logo=windows">
+  <img alt="Platform Web and Windows" src="https://img.shields.io/badge/Platform-Web%20%7C%20Windows-2563EB">
   <img alt="Status Playable Demo" src="https://img.shields.io/badge/Status-Playable%20Demo-2EA44F">
 </p>
 
@@ -19,11 +19,12 @@
 
 | 内容 | 入口 |
 | --- | --- |
+| 浏览器在线试玩 | [打开 WebGL 试玩版](https://wanjunyi310.github.io/dreamweaver-showcase/) |
 | 游戏演示视频 | [前往 v0.1.0 Release 观看](../../releases/tag/v0.1.0) |
 | Windows 试玩包 | [下载 v0.1.0 试玩版](../../releases/tag/v0.1.0)，完整解压后双击 `入梦师.exe` |
-| 功能自测记录 | [查看测试清单](Docs/TEST_CHECKLIST.md) |
+| 功能自测记录 | [查看测试清单](docs/TEST_CHECKLIST.md) |
 
-支持 Windows 10/11 64 位系统。试玩包和演示视频通过 GitHub Releases 单独提供。
+WebGL 版建议使用桌面端 Chrome 或 Edge 打开，首次加载需要下载约 64 MB 资源。Windows 试玩包支持 Windows 10/11 64 位系统，试玩包和演示视频通过 GitHub Releases 单独提供。
 
 ## 我负责的工作
 
@@ -39,7 +40,7 @@
 - C# / Unity Input System / UGUI / 2D Physics
 - ScriptableObject 数据配置
 - JSON 多槽位存档
-- Windows Demo
+- WebGL / Windows Demo
 
 ## 已实现功能
 
@@ -73,7 +74,7 @@
 | 剧情分支跳转异常风险 | 按选项、标记和条件分别验证目标节点 | 完成人工流程验证 |
 | 存档读取异常 | 保留备份回退路径与安全返回逻辑 | 已实现，继续补充异常样本 |
 
-更详细的范围见 [《入梦师》Demo 自测清单](Docs/TEST_CHECKLIST.md)。
+更详细的范围见 [《入梦师》Demo 自测清单](docs/TEST_CHECKLIST.md)。
 
 ## 默认操作
 

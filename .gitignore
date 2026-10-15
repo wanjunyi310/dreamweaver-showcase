@@ -33,3 +33,5 @@ Logs/
 UserSettings/
 Build/
 Builds/
+!docs/Build/
+!docs/Build/**
