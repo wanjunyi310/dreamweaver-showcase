@@ -24,7 +24,7 @@
 | Windows 试玩包 | [下载 v0.1.0 试玩版](../../releases/tag/v0.1.0)，完整解压后双击 `入梦师.exe` |
 | 功能自测记录 | [查看测试清单](docs/TEST_CHECKLIST.md) |
 
-WebGL 版建议使用桌面端 Chrome 或 Edge 打开，首次加载需要下载约 64 MB 资源。Windows 试玩包支持 Windows 10/11 64 位系统，试玩包和演示视频通过 GitHub Releases 单独提供。
+WebGL 版建议使用桌面端 Chrome 或 Edge 打开，首次加载需要下载约 31 MB 资源。Windows 试玩包支持 Windows 10/11 64 位系统，试玩包和演示视频通过 GitHub Releases 单独提供。
 
 ## 我负责的工作
 
